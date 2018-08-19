@@ -371,6 +371,15 @@ img {
   height: auto;
 }
 
+.img-responsive2{
+  padding: 1px;
+  line-height: 1.42857;
+  border-radius: 4px;
+  display: inline-block;
+  max-width: 200px;
+  height: auto;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
